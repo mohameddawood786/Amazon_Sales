@@ -1,1 +1,9 @@
 # Amazon_Sales
+ AnalyzedAmazonsalesdatatoidentifytrendsinproductperformance,customersegmentation,andgeographical
+ sales patterns, delivering actionable insights to optimize business strategies.
+ • DevelopedinteractivePowerBIdashboardsvisualizingcustomersegmentationbypurchasebehavior,which
+ pinpointed the top3regionsforstrategicmarketingcampaigns,improvingcampaignROIby15%.
+ • UtilizedExcelfordatacleaning,trendanalysis, andcreatingpivot tables tosupportdetailedreporting.
+ • AppliedPythonfordatapreprocessingandgeneratingcustommetrics,enablingmoreefficientandscalable
+ analysis pipelines.
+ TEAMTWEAKSTECH
